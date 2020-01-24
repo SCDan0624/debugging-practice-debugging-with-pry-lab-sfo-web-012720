@@ -10,7 +10,7 @@ def turtles
       {
         name: "Michaelangelo", 
         weapon: "nunchuks", 
-        traits: "party dude"
+        traits: ["party dude"]
         
       },
       {
